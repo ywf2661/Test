@@ -5,7 +5,7 @@ import {
   StyleSheet,
   Text,
   TouchableOpacity,
-  Alert,ㅠㅠㅠ
+  Alert,
   View
 } from 'react-native';
 import { RNCamera } from 'react-native-camera';
@@ -20,7 +20,7 @@ export default class Scan extends Component {
   };
 
   onPress1(){
-    Actions.R1212121ecord();
+    Actions.Record();
   }
 
  
