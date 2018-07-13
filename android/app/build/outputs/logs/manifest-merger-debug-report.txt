@@ -1,0 +1,361 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2a1e93f2940dc0c9641a3cf6ea938937\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\3179589d7a858a4a6774bdf176c1226a\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-27:12
+MERGED from [:react-native-beacons-manager] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-beacons-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.51.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\react-native-0.51.1.aar\5a06cc9899abbc8f7e7a0b9ecea67644\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\eb1f0e544ddde1ee1c46eda84b81b693\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\c06613a1c120e91b18259b7c51a48383\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7a1d28d1742f9630f5554d0b59771781\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\9e8130f3fb4a5a581bb426fb5341b274\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\a59d2e8aeb1a32706512babf5feea344\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\74efba714cdca2c857e97e4628098a80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\c8c8758c9b319c93b19f24f4b9ca7b13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\ef6c42b1d4995f323470d46b55c6d3c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\a6a2ffc09fe273320efe7dd86307859f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.kontaktio:sdk:3.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\sdk-3.3.0.aar\2cb584caa67dd5be89139e92b267b721\AndroidManifest.xml:2:1-11:12
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:2:1-42:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\f6b1c54d20d52aae1382653f1d323564\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\73162055c35b8e996b5f9b66aea008c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\5fe81ef6196dfd4491e51c0aadc792de\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\0175bcd1e27d599ea6ed4a3a9fa78549\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\6b8d6de75c5d0c9d77e55d22d17ddc4b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\d6b7085972ca5eed572172e142a9942c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3680ebceb20c5cdad1a4a5379d9fe8b1\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8efdb907a011238450b83c18fac3ed1a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\4e50fa025dd62b390464cfb0a9e68e1a\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\fc1a124dff7fa6806943b62cf08a3860\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\03f5a126dab0c07384fcf5da4689fa18\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\0b1d47436adfc70481f09cd48ba91c7e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0dd170907231088c29a2e25854c5d5e8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\d72c380c33c6fbe5f7edf1548c9e421c\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\069c612fd4f3cf5c56b25951b070c622\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3b9e1109ae41fe25d6ed84cf98e73f79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1f90b0cc1f21570e51091b9e0912f265\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\75fc4bb31845c416a20383a9ad64e6a6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-67
+MERGED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.51.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\react-native-0.51.1.aar\5a06cc9899abbc8f7e7a0b9ecea67644\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.51.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\react-native-0.51.1.aar\5a06cc9899abbc8f7e7a0b9ecea67644\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:9:22-62
+application
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:11:5-29:19
+MERGED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\3179589d7a858a4a6774bdf176c1226a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\3179589d7a858a4a6774bdf176c1226a\AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.react:react-native:0.51.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\react-native-0.51.1.aar\5a06cc9899abbc8f7e7a0b9ecea67644\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.51.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\react-native-0.51.1.aar\5a06cc9899abbc8f7e7a0b9ecea67644\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\eb1f0e544ddde1ee1c46eda84b81b693\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\eb1f0e544ddde1ee1c46eda84b81b693\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\c06613a1c120e91b18259b7c51a48383\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\c06613a1c120e91b18259b7c51a48383\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7a1d28d1742f9630f5554d0b59771781\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7a1d28d1742f9630f5554d0b59771781\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:22:5-26:19
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:21:5-40:19
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:21:5-40:19
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\73162055c35b8e996b5f9b66aea008c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\73162055c35b8e996b5f9b66aea008c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\5fe81ef6196dfd4491e51c0aadc792de\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\5fe81ef6196dfd4491e51c0aadc792de\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\0175bcd1e27d599ea6ed4a3a9fa78549\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\0175bcd1e27d599ea6ed4a3a9fa78549\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\6b8d6de75c5d0c9d77e55d22d17ddc4b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\6b8d6de75c5d0c9d77e55d22d17ddc4b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\d6b7085972ca5eed572172e142a9942c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\d6b7085972ca5eed572172e142a9942c\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\4e50fa025dd62b390464cfb0a9e68e1a\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\4e50fa025dd62b390464cfb0a9e68e1a\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\fc1a124dff7fa6806943b62cf08a3860\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\fc1a124dff7fa6806943b62cf08a3860\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:12:7-38
+service#com.kontakt.sdk.android.ble.service.ProximityService
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:17:7-110
+	android:exported
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:17:84-108
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:17:16-83
+activity#com.capstoneproject.MainActivity
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:18:7-27:18
+	android:label
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:20:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:21:9-79
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:19:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2a1e93f2940dc0c9641a3cf6ea938937\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\2a1e93f2940dc0c9641a3cf6ea938937\AndroidManifest.xml:20:5-43
+MERGED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\3179589d7a858a4a6774bdf176c1226a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\3179589d7a858a4a6774bdf176c1226a\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-14:41
+MERGED from [:react-native-beacons-manager] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-beacons-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-beacons-manager] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-beacons-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\react-native-0.51.1.aar\5a06cc9899abbc8f7e7a0b9ecea67644\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\react-native-0.51.1.aar\5a06cc9899abbc8f7e7a0b9ecea67644\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\eb1f0e544ddde1ee1c46eda84b81b693\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\eb1f0e544ddde1ee1c46eda84b81b693\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\c06613a1c120e91b18259b7c51a48383\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\c06613a1c120e91b18259b7c51a48383\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7a1d28d1742f9630f5554d0b59771781\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\7a1d28d1742f9630f5554d0b59771781\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\9e8130f3fb4a5a581bb426fb5341b274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\9e8130f3fb4a5a581bb426fb5341b274\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\a59d2e8aeb1a32706512babf5feea344\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\a59d2e8aeb1a32706512babf5feea344\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\74efba714cdca2c857e97e4628098a80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\74efba714cdca2c857e97e4628098a80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\c8c8758c9b319c93b19f24f4b9ca7b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\c8c8758c9b319c93b19f24f4b9ca7b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\ef6c42b1d4995f323470d46b55c6d3c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\ef6c42b1d4995f323470d46b55c6d3c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\a6a2ffc09fe273320efe7dd86307859f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\a6a2ffc09fe273320efe7dd86307859f\AndroidManifest.xml:20:5-44
+MERGED from [com.kontaktio:sdk:3.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\sdk-3.3.0.aar\2cb584caa67dd5be89139e92b267b721\AndroidManifest.xml:7:5-9:41
+MERGED from [com.kontaktio:sdk:3.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\sdk-3.3.0.aar\2cb584caa67dd5be89139e92b267b721\AndroidManifest.xml:7:5-9:41
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:7:5-9:41
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\f6b1c54d20d52aae1382653f1d323564\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\f6b1c54d20d52aae1382653f1d323564\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\73162055c35b8e996b5f9b66aea008c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\73162055c35b8e996b5f9b66aea008c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\5fe81ef6196dfd4491e51c0aadc792de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\5fe81ef6196dfd4491e51c0aadc792de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\0175bcd1e27d599ea6ed4a3a9fa78549\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\0175bcd1e27d599ea6ed4a3a9fa78549\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\6b8d6de75c5d0c9d77e55d22d17ddc4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\6b8d6de75c5d0c9d77e55d22d17ddc4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\d6b7085972ca5eed572172e142a9942c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\d6b7085972ca5eed572172e142a9942c\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3680ebceb20c5cdad1a4a5379d9fe8b1\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\3680ebceb20c5cdad1a4a5379d9fe8b1\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8efdb907a011238450b83c18fac3ed1a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\8efdb907a011238450b83c18fac3ed1a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\4e50fa025dd62b390464cfb0a9e68e1a\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\4e50fa025dd62b390464cfb0a9e68e1a\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\03f5a126dab0c07384fcf5da4689fa18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\03f5a126dab0c07384fcf5da4689fa18\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\0b1d47436adfc70481f09cd48ba91c7e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\0b1d47436adfc70481f09cd48ba91c7e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0dd170907231088c29a2e25854c5d5e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0dd170907231088c29a2e25854c5d5e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\d72c380c33c6fbe5f7edf1548c9e421c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\d72c380c33c6fbe5f7edf1548c9e421c\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\069c612fd4f3cf5c56b25951b070c622\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\069c612fd4f3cf5c56b25951b070c622\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3b9e1109ae41fe25d6ed84cf98e73f79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3b9e1109ae41fe25d6ed84cf98e73f79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1f90b0cc1f21570e51091b9e0912f265\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1f90b0cc1f21570e51091b9e0912f265\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\75fc4bb31845c416a20383a9ad64e6a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\75fc4bb31845c416a20383a9ad64e6a6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:9-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:exifinterface:25.4.0] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\exifinterface-25.4.0.aar\58e4c4aac4a8b4410a119871a14e27fd\AndroidManifest.xml:24:13-51
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-68
+MERGED from [:react-native-beacons-manager] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-beacons-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-68
+MERGED from [:react-native-beacons-manager] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-beacons-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-68
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:11:5-13:36
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-74
+MERGED from [:react-native-beacons-manager] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-beacons-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-74
+MERGED from [:react-native-beacons-manager] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-beacons-manager\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-74
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:14:5-16:36
+MERGED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [:react-native-kontaktio] C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\node_modules\react-native-kontaktio\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:22-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\c1556b84abe9e06463aa2b933d348747\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\fa59f1117afa919910ff7c79d90d8d27\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:17:22-78
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:19:29-85
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:22:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:24:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:25:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:25:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:26:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:26:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:30:9-35:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:32:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:33:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:31:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.2] C:\Users\Beom Seok\.gradle\caches\transforms-1\files-1.1\android-beacon-library-2.9.2.aar\540c3a04f1473c6f86142c536d2e1c71\AndroidManifest.xml:37:13-70
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Beom Seok\CapstoneProject\CapstoneProject (4)\android\app\src\main\AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
